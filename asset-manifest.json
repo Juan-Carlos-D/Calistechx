@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Calistechx/static/css/main.f855e6bc.css",
+    "main.css": "/Calistechx/static/css/main.5829389e.css",
     "main.js": "/Calistechx/static/js/main.06e10d35.js",
     "static/js/787.c21cfeba.chunk.js": "/Calistechx/static/js/787.c21cfeba.chunk.js",
     "static/media/logo.svg": "/Calistechx/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Calistechx/index.html",
-    "main.f855e6bc.css.map": "/Calistechx/static/css/main.f855e6bc.css.map",
+    "main.5829389e.css.map": "/Calistechx/static/css/main.5829389e.css.map",
     "main.06e10d35.js.map": "/Calistechx/static/js/main.06e10d35.js.map",
     "787.c21cfeba.chunk.js.map": "/Calistechx/static/js/787.c21cfeba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
+    "static/css/main.5829389e.css",
     "static/js/main.06e10d35.js"
   ]
 }
